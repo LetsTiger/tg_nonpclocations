@@ -7,6 +7,7 @@ Features:
 - Nur PED's/NPC's löschen
 - Nur NPC Fahrzeuge löschen
 - NPC's/PED's und NPC Fahrzeuge löschen
+
 Einzelne Features der Zones:
 - Radius einstellbar
 

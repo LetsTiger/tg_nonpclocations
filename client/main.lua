@@ -2,7 +2,7 @@ CreateThread(function()
 
 	while true do
 
-		Wait(0)
+		Wait(500)
 
 		for _,v in pairs(Config.NPCLocations) do
 			ClearAreaOfPeds(v.coords, v.radius, 1)

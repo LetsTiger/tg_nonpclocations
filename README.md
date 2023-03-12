@@ -12,7 +12,7 @@ Einzelne Features der Zones:
 - Radius einstellbar
 
 ## Download
-[[LINK]](https://github.com/LetsTiger/tg_nonpclocations/archive/refs/tags/Releases.zip)
+[[LINK]](https://github.com/LetsTiger/tg_nonpclocations/archive/refs/tags/v1.1.zip)
 
 ## Lizenz
 Dieses Script kann verändert und für deinen Server genutzt werden. Es ist NICHT erlaubt dieses Script erneut zu veröffentlichen oder ähnliches.

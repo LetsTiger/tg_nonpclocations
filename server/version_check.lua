@@ -40,7 +40,7 @@ function Resourcestart()
         print("^4|▶ ^0[^5INFO^0] Deine Version: [^1"..curVersion.."^0]                                                              ^4|")
         print("^4|▶ ^0[^5INFO^0] Neuste Version: [^2"..newVersion.."^0]                                                             ^4|")
     elseif utd then
-        print("^4|▶ ^0[^5INFO^0] Du hast die aktuellste Version vom "..resourceName..", viel Spaß!                       ^4|")
+        print("^4|▶ ^0[^5INFO^0] Du hast die aktuellste Version vom "..resourceName..", viel Spaß!                ^4|")
         print("^4|▶ ^0[^5INFO^0] Deine Version: [^2"..curVersion.."^0]                                                                                      ^4|")
         print("^4|▶ ^0[^5INFO^0] Neuste Version: [^2"..newVersion.."^0]                                                                                     ^4|")
     else
